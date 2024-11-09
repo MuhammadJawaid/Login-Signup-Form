@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke;
+}
+#box{
+    margin-top: 25px;
+}
+.chess{
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 65px;
+    height: 65px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.black{
+    background-color: black;
+}
+#white{
+    color: white;
+}
